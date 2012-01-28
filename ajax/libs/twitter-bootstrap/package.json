@@ -1,7 +1,7 @@
 {
     "name": "twitter-bootstrap",
     "filename": "bootstrap-all.min.js",
-    "version": "1.0.0",
+    "version": "1.4.0",
     "description": "Javascript plugins for the Twitter Bootstrap toolkit",
     "homepage": "http://twitter.github.com/bootstrap/",
     "keywords": [
